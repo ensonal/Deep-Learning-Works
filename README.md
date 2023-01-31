@@ -1,6 +1,6 @@
 # Deep Learning Works
 
-It contains my practicies and projects about deep learning models.
+It contains my practices and projects about deep learning models.
 
 
 
